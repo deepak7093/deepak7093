@@ -1,5 +1,5 @@
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak7093&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7093&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Unicode's github stats](https://github-readme-stats.vercel.app/api?username=deepak7093&theme=algolia&show_icons=true)](https://github.com/Shr3ps/Shr3ps)
+![Unicode's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7093&theme=algolia&langs_count=10&layout=compact)
 
 
 <!--
